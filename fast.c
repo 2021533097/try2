@@ -7,7 +7,7 @@ int main(void){
     long long c,d;
     x = &c;
     y=&d;
-    a=20,b=3;
+    scanf(" %d %d ",&a,&b);
     long long r=exgcd(a,b,x,y);
     printf("(%lld * %lld)+(%lld * %lld)= %lld\n",c,a,d,b,r);
     return 0;
