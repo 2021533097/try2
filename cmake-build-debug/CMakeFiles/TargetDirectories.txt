@@ -1,0 +1,3 @@
+/Users/zhouyimiao/Desktop/try/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/zhouyimiao/Desktop/try/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/zhouyimiao/Desktop/try/cmake-build-debug/CMakeFiles/fast.dir
