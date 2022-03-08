@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+.idea/.name
+.idea/inspectionProfiles/
+.vscode/
+build/
+cmake-build-debug/.ninja_deps
+cmake-build-debug/.ninja_log
+cmake-build-debug/fast
+.DS_Store
