@@ -1,7 +1,9 @@
 # try2
 这个仓库的意义是用来储存我在离散数学学习过程中实现的算法:
 
-目前有：快速幂(python实现），扩展欧几里德算法(C实现、python实现），中国剩余定理（python实现）。
+目前有：快速幂(python实现）(快速幂.py)，扩展欧几里德算法(C实现、python实现）(exgcd.c exgcd.py)，中国剩余定理（python实现）(Chinese....c)。
+
+3/21：新增  快速排序(基准值选取为第一位的元素)(QuickSort.c)， ANSI C的随机数算法(rand0.c)。
 
 补充:
 

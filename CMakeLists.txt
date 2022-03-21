@@ -3,4 +3,4 @@ project(try C)
 
 set(CMAKE_C_STANDARD 11)
 
-add_executable(fast fast.c)
+add_executable(exgcd exgcd.c)
